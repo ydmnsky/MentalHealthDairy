@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MentalHealthDairy</string>
+    <string name="record_title_hint">Describe your condition in multiple words</string>
+    <string name="record_title_label">Title</string>
+    <string name="record_details_label">Details</string>
+    <string name="record_reflected_label">I reflected it!</string>
+
 </resources>
