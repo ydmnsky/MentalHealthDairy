@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/Users/yarik/AndroidStudioProjects/MentalHealthDairy/app/src/main/res/layout/activity_main.xml" value="0.3625" />
         <entry key="..\:/Users/yarik/AndroidStudioProjects/MentalHealthDairy/app/src/main/res/layout/fragment_record.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/yarik/AndroidStudioProjects/MentalHealthDairy/app/src/main/res/layout/fragment_record_list.xml" value="0.3625" />
+        <entry key="..\:/Users/yarik/AndroidStudioProjects/MentalHealthDairy/app/src/main/res/layout/list_item_record.xml" value="0.3625" />
       </map>
     </option>
   </component>
